@@ -1,0 +1,29 @@
+filename = 'does_it_tick-fabric-1.1.4-1.21.1.jar'
+name = 'Does It Tick?'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-1.21.1-1.1.4'
+
+[download]
+hash = '3e6b692c107328c2bcfd4b63ed1bf45a069e717359ed8f006603ea67c0fa3df724003861dcdf9c92faaedd82e03f822d9dbf2829bd6e587bb24a227e07cd7e70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vmg6jaPW/versions/1oufWQjb/does_it_tick-fabric-1.1.4-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'vmg6jaPW'
+version = '1oufWQjb'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vBbPDuOs'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BNuR43mM'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

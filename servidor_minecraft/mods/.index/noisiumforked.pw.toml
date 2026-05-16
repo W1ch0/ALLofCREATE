@@ -1,0 +1,18 @@
+filename = 'noisium-fabric-2.7.0+mc1.21-1.21.1.jar'
+name = 'NoisiumForked'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.7.0+mc1.21-1.21.1'
+
+[download]
+hash = '501cee71e8f3795d8038abc83372b5095bd46a7fa332b3827d6b8c035d7b34049ce908b43d6724417f8e3c85a27b7e62f5b2968136af1b8425030a044c58830e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hasdd01q/versions/bQdp8Lez/noisium-fabric-2.7.0%2Bmc1.21-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'hasdd01q'
+version = 'bQdp8Lez'
